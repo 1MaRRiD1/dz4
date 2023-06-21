@@ -65,7 +65,7 @@ int ReadInt(string message)
     Console.Write(message);
     return Convert.ToInt32(Console.ReadLine());
 }*/
-//3)Напишите программу, которая задаёт массив из 8 элементов и выводит их на экран.
+//3)Напишите программу, которая задаёт массив из N элементов и выводит их на экран.
 /*
 internal class Program
 {
