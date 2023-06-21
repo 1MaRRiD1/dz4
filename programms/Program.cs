@@ -71,7 +71,6 @@ internal class Program
 {
     private static void Main(string[] args)
     {
-        // 3) Напишите программу, которая задаёт массив из 8 элементов и выводит их на экран.
         int lenArray = ReadInt("Введите длинну массива: ");
 
         int[] randomArray = new int[lenArray];
